@@ -1,0 +1,4 @@
+teacher: why are you late, frank?
+ wordcount: ['teacher:', 'why', 'are', 'you', 'late,', 'frank?\n']frank: because of the sign.
+ wordcount: ['frank:', 'because', 'of', 'the', 'sign.\n']teacher: what sign?
+ wordcount: ['teacher:', 'what', 'sign?\n']frank: the one that says "school ahead, go slow". wordcount: ['frank:', 'the', 'one', 'that', 'says', '"school', 'ahead,', 'go', 'slow".']
